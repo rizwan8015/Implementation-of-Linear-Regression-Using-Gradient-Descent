@@ -44,8 +44,8 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 
 
-Developed by: HARINE S
-RegisterNumber:  212224230081
+Developed by: rizwan B
+RegisterNumber:  212224100051
 
 
 import numpy as np
